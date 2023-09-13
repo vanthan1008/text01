@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Đơn Giản</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chào mừng đến với trang web đơn giản</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Về chúng tôi</h2>
+            <p>Xin chào! Chúng tôi là một trang web đơn giản với nhiệm vụ hiển thị thông tin cơ bản.</p>
+        </section>
+        <section>
+            <h2>Liên hệ</h2>
+            <p>Liên hệ với chúng tôi qua địa chỉ email: example@email.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Trang web đơn giản</p>
+    </footer>
+</body>
+</html>
